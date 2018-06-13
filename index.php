@@ -11,29 +11,24 @@ require 'header.php';
                     <li data-target="#myCarousel" data-slide-to="1"></li>
                     <li data-target="#myCarousel" data-slide-to="2"></li>
                     <li data-target="#myCarousel" data-slide-to="3"></li>
-                    <li data-target="#myCarousel" data-slide-to="4"></li>
                 </ol>
                 <center>
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="obras/acuinova_1.jpg" alt="Acuinova" style="width:60%;">
+                            <img src="imagenesHospital/laboratorio1.jpg" alt="laboratory" style="width:60%;">
                         </div>
 
                         <div class="item">
-                            <img src="obras/apurranque_1.jpg" alt="Apurranque" style="width:60%;">
+                            <img src="imagenesHospital/laboratorio2.jpg" alt="laboratory" style="width:60%;">
                         </div>
 
                         <div class="item">
-                            <img src="obras/benito_1.jpg" alt="Benito" style="width:60%;">
+                            <img src="imagenesHospital/laboratorio3.jpg" alt="laboratory" style="width:60%;">
                         </div>
 
                         <div class="item">
-                            <img src="obras/caf_1.jpg" alt="Caf" style="width:60%;">
-                        </div>
-
-                        <div class="item">
-                            <img src="obras/ebco_1.jpg" alt="Ebco" style="width:60%;">
+                            <img src="imagenesHospital/laboratorio4.jpg" alt="laboratory" style="width:60%;">
                         </div>
                     </div>
                     <!-- Left and right controls -->
@@ -54,6 +49,7 @@ require 'header.php';
 
         <div class="container">
             <div class="row">
+                    /*
                 <h2>Últimas obras destacadas</h2>
                 <div class="col-sm-4">
                     <img src="obras/torreEntel.jpg" alt="Galvarino" style="width:80%;">
@@ -69,6 +65,7 @@ require 'header.php';
                     <img src="obras/mallLosDomin.jpg" alt="Galvarino" style="width:80%;">
                     <br>
                     <a href="http://www.arenasconstructora.cl/portal/?portfolio=mall-plaza-los-dominicos">Arenas Construcciones</a>
+                        */
                 </div>
             </div>
             <br><br><br>
